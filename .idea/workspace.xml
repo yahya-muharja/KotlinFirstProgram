@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41685318-7550-4e7c-bafa-b98afdc28ff0" name="Changes" comment="My Firts Commit">
+      <change afterPath="$PROJECT_DIR$/src/Expression &amp; Statement" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Keyword" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Blok&amp;Komentar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blok&amp;Komentar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Boolean.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Boolean.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Character.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Character.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConstantsLiteral.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConstantsLiteral.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FungsiAnggoraPadaString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FungsiAnggoraPadaString.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KonversiEksplisit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/KonversiEksplisit.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PenerapanKonversiEksplisitPadaChar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/PenerapanKonversiEksplisitPadaChar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PenerapanString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/PenerapanString.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PerintahMasukkandiKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/PerintahMasukkandiKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProgramCaesarCipher.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgramCaesarCipher.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProgramSandiMorse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgramSandiMorse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/String.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TipeData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/TipeData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variabel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variabel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VarvsVal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/VarvsVal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Whitespaces.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Whitespaces.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yahya-muharja&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yahya-muharja/KotlinFirstProgram.git&quot;,
+    &quot;accountId&quot;: &quot;5aa69c16-e98f-452a-b260-b00db2eab91c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3Cu0xtkZ9FilOEJrN0O0A6OhMnQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.BooleanKt.executor": "Run",
+    "Kotlin.UnderscoreDalamLiteralKt.executor": "Run",
+    "Kotlin.VariabelKt.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/IdeaProjects/KotlinFirtsProgram",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.BooleanKt">
+    <configuration name="BooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BooleanKt" />
+      <module name="KotlinFirtsProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnderscoreDalamLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnderscoreDalamLiteralKt" />
+      <module name="KotlinFirtsProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariabelKt" />
+      <module name="KotlinFirtsProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.BooleanKt" />
+        <item itemvalue="Kotlin.UnderscoreDalamLiteralKt" />
+        <item itemvalue="Kotlin.VariabelKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41685318-7550-4e7c-bafa-b98afdc28ff0" name="Changes" comment="" />
+      <created>1777220396625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777220396625</updated>
+    </task>
+    <task id="LOCAL-00001" summary="My Firts Commit">
+      <option name="closed" value="true" />
+      <created>1777221201878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1777221201878</updated>
+    </task>
+    <task id="LOCAL-00002" summary="My Firts Commit">
+      <option name="closed" value="true" />
+      <created>1777225204479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777225204479</updated>
+    </task>
+    <task id="LOCAL-00003" summary="My Firts Commit">
+      <option name="closed" value="true" />
+      <created>1777225269789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777225269789</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="My Firts Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My Firts Commit" />
+  </component>
+</project>

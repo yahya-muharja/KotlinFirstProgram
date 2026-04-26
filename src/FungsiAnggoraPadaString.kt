@@ -1,3 +1,6 @@
+import java.util.Locale
+import java.util.Locale.getDefault
+
 fun main(args: Array<String>) {
     val s = "Rhinopotamus"
     println(s.startsWith("rhin"))
@@ -5,8 +8,9 @@ fun main(args: Array<String>) {
     println(s.contains("pot"))
     println(s.contains("lol"))
 
+    //toUpperCase() and toLowerCase()
     var config = "Fullscreen shaDows autosave"
-    config.lowercase()
+    config = config.lowercase(getDefault())
     println("Will the game run in fullscreen?")
     println(config.contains("fullscreen"))
     println("Will shadows be turned on?")
@@ -16,13 +20,15 @@ fun main(args: Array<String>) {
     println("Would the player like to use autosave?")
     println(config.contains("autosave"))
 
+    //replace()
     var strJava = "Java is the best!"
     strJava = strJava.replace("Java", "Kotlin")
     println(s)
-    println("$strJava is ${strJava.length} characters long. ")
+    println("$strJava is ${strJava.length} characters long.")
 
-    println("I would not banish all of these internets.".substring(2, 7))
+    //substring()
+    println("I would not banish all of these Internets.".substring(2, 7))
 
+    //compareTo()
     println("alpha".compareTo("bravo"))
 }
-

@@ -1,0 +1,5 @@
+Ekspresi adalah kombinasi dari operator, fungsi, nilai literal, variabel atau konstanta, dan selalu merubah nilai.
+Contoh : var x = 20 % 4
+
+Kita tidak bisa melewatkan operasi assignment sebagai argument didalam loop statement seperti while:
+Contoh : while ((rem = a % b) != 0) {}

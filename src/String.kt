@@ -8,11 +8,17 @@ fun main(args: Array<String>) {
     val s = "abc" + 1
     println(s + "def")
 
-    /*var text = """
+    /*
+    Untuk dapat menyimpan data String yang memuat keywords Kotlin bisa dengan menggunakan
+    raw String yang dipisahkan dengan triple quotes (""").
+    (Eksekusi ini kemudia kode selanjutnya)
+
+    var text = """
         for (c in "foo")
         print(c)
     """
-    println(text)*/
+    println(text)
+    */
 
     var text = """
             |Tell me and I forget.

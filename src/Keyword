@@ -1,0 +1,15 @@
+    Keyword adalah istilah cadangan yang memiliki arti khusus bagi compiler, dan juga tidak dapat
+digunakan sebagai pengenal (identifier) untuk apapun elemen progam seperti nama kelas,
+variabel, fungsi dan interfaces.
+
+    Kotlin memiliki hard, soft dan modifier keyword. Hard keyword selalu diterjemahkan sebagai
+keyword dan tidak dapat digunakan sebagai identifier. Contohnya adalah : break, class, continue,
+do, else, false, while, this, throw, try, super, dan when.
+
+    Soft keyword dikenali sebagai kata-kata cadangan, dalam konteks tertentu mereka dapat dipakai,
+selain itu ia juga dapat digunakan sebagai regular identifier. Contohnya adalah : file, finally, get,
+import, receiver, set, constructor, delegate, get, by, dan where.
+
+    Modifier keyword dikenali sebagai kata cadangan didalam daftar modifier, selain itu ia juga
+dapat digunakan sebagai modifier. Contohnya adalah : abstract, actual, annotation, companion,
+enum, final, infix, inline, lateinit, operator, dan open.

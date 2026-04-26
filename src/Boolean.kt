@@ -3,7 +3,11 @@ fun main(args: Array<String>) {
     if(varBool)
         println("varBool bernilai " + varBool)
 
-    /*var varInt : Int = 1
+    /*
+    var varInt : Int = 1
     if(varInt)
-        println("varInt bernilai " + varInt)*/
+        println("varInt bernilai " + varInt)
+
+    Pesan Error: Ketidaksesuaian tipe kondisi: tipe yang disimpulkan adalah 'Int' tetapi yang diharapkan adalah 'Boolean'.
+    */
 }

@@ -23,6 +23,6 @@ fun main(args: Array<String>) {
     println("maxFloat " + maxFloat)
     println("maxDouble " + maxDouble)
 
-    /*Jika nilai setiap tipe data diubah ke batas maksimal maka
-    akan terjadi error, bakal disuruh change atau convert tipe*/
+    /* Jika nilai setiap tipe data diubah ke batas maksimal maka
+    akan terjadi error, bakal disuruh change atau convert tipe */
 }

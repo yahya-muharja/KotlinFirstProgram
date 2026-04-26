@@ -1,9 +1,12 @@
 fun main(args: Array<String>) {
+    //The Caesar cipher
+    // variable initialization
     val s = "blackholesarewheregoddividedbyzero"
     println("Original message: $s")
     var message = ""
     var shift = 1
 
+    // loop iterating over characters
     for (c in s) {
         var i = c.toInt()
         i += shift
@@ -14,5 +17,6 @@ fun main(args: Array<String>) {
         message += char
     }
 
+    // printing
     println("Encrypted message: $message")
 }
