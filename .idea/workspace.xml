@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41685318-7550-4e7c-bafa-b98afdc28ff0" name="Changes" comment="My Firts Commit">
-      <change afterPath="$PROJECT_DIR$/src/Expression &amp; Statement" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Keyword" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Blok&amp;Komentar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blok&amp;Komentar.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Boolean.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Boolean.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Character.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Character.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConstantsLiteral.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConstantsLiteral.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FungsiAnggoraPadaString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FungsiAnggoraPadaString.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KonversiEksplisit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/KonversiEksplisit.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PenerapanKonversiEksplisitPadaChar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/PenerapanKonversiEksplisitPadaChar.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PenerapanString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/PenerapanString.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PerintahMasukkandiKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/PerintahMasukkandiKotlin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgramCaesarCipher.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgramCaesarCipher.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgramSandiMorse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgramSandiMorse.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/String.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TipeData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/TipeData.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variabel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variabel.kt" afterDir="false" />
+    <list default="true" id="41685318-7550-4e7c-bafa-b98afdc28ff0" name="Changes" comment="My Firys Commit">
       <change beforePath="$PROJECT_DIR$/src/VarvsVal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/VarvsVal.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Whitespaces.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Whitespaces.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,13 +114,40 @@
       <option name="project" value="LOCAL" />
       <updated>1777225269789</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="My Firts Commit">
+      <option name="closed" value="true" />
+      <created>1777650174639</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1777650174639</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/VarvsVal.kt">
+      <option name="closed" value="true" />
+      <created>1777650298586</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1777650298586</updated>
+    </task>
+    <task id="LOCAL-00006" summary="My Firys Commit">
+      <option name="closed" value="true" />
+      <created>1777650390242</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1777650390242</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="My Firts Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="My Firts Commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/VarvsVal.kt" />
+    <MESSAGE value="My Firys Commit" />
+    <MESSAGE value="My Fitys Commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
